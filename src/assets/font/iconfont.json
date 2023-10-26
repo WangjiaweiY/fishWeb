@@ -1,0 +1,37 @@
+{
+  "id": "4276710",
+  "name": "fishWeb",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11372650",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e8ad",
+      "unicode_decimal": 59565
+    },
+    {
+      "icon_id": "162882",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12753043",
+      "name": "图片",
+      "font_class": "tupian_huaban",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "8288808",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e83a",
+      "unicode_decimal": 59450
+    }
+  ]
+}
